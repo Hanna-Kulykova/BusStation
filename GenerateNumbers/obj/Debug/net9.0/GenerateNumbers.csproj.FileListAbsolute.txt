@@ -1,0 +1,14 @@
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/bin/Debug/net9.0/GenerateNumbers
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/bin/Debug/net9.0/GenerateNumbers.deps.json
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/bin/Debug/net9.0/GenerateNumbers.runtimeconfig.json
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/bin/Debug/net9.0/GenerateNumbers.dll
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/bin/Debug/net9.0/GenerateNumbers.pdb
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/obj/Debug/net9.0/GenerateNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/obj/Debug/net9.0/GenerateNumbers.AssemblyInfoInputs.cache
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/obj/Debug/net9.0/GenerateNumbers.AssemblyInfo.cs
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/obj/Debug/net9.0/GenerateNumbers.csproj.CoreCompileInputs.cache
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/obj/Debug/net9.0/GenerateNumbers.dll
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/obj/Debug/net9.0/refint/GenerateNumbers.dll
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/obj/Debug/net9.0/GenerateNumbers.pdb
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/obj/Debug/net9.0/GenerateNumbers.genruntimeconfig.cache
+/Users/annakulikova/Documents/System Programming/MonitorLock/GenerateNumbers/obj/Debug/net9.0/ref/GenerateNumbers.dll

@@ -1,0 +1,14 @@
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/bin/Debug/net9.0/MonitorLock
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/bin/Debug/net9.0/MonitorLock.deps.json
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/bin/Debug/net9.0/MonitorLock.runtimeconfig.json
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/bin/Debug/net9.0/MonitorLock.dll
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/bin/Debug/net9.0/MonitorLock.pdb
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/obj/Debug/net9.0/MonitorLock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/obj/Debug/net9.0/MonitorLock.AssemblyInfoInputs.cache
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/obj/Debug/net9.0/MonitorLock.AssemblyInfo.cs
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/obj/Debug/net9.0/MonitorLock.csproj.CoreCompileInputs.cache
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/obj/Debug/net9.0/MonitorLock.dll
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/obj/Debug/net9.0/refint/MonitorLock.dll
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/obj/Debug/net9.0/MonitorLock.pdb
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/obj/Debug/net9.0/MonitorLock.genruntimeconfig.cache
+/Users/annakulikova/Documents/System Programming/MonitorLock/MonitorLock/obj/Debug/net9.0/ref/MonitorLock.dll

@@ -1,0 +1,14 @@
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/bin/Debug/net9.0/BusStationMultiLanding
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/bin/Debug/net9.0/BusStationMultiLanding.deps.json
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/bin/Debug/net9.0/BusStationMultiLanding.runtimeconfig.json
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/bin/Debug/net9.0/BusStationMultiLanding.dll
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/bin/Debug/net9.0/BusStationMultiLanding.pdb
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/obj/Debug/net9.0/BusStationMultiLanding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/obj/Debug/net9.0/BusStationMultiLanding.AssemblyInfoInputs.cache
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/obj/Debug/net9.0/BusStationMultiLanding.AssemblyInfo.cs
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/obj/Debug/net9.0/BusStationMultiLanding.csproj.CoreCompileInputs.cache
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/obj/Debug/net9.0/BusStationMultiLanding.dll
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/obj/Debug/net9.0/refint/BusStationMultiLanding.dll
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/obj/Debug/net9.0/BusStationMultiLanding.pdb
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/obj/Debug/net9.0/BusStationMultiLanding.genruntimeconfig.cache
+/Users/annakulikova/Documents/System Programming/MonitorLock/BusStationMultiLanding/obj/Debug/net9.0/ref/BusStationMultiLanding.dll
