@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BusStation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e916581c56a404374772078abdcd297b4e6b8db6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BusStation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BusStation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
